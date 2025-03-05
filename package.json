@@ -1,0 +1,14 @@
+{
+  "name": "categories_api",
+  "version": "1.0.0",
+  "description": "API for managing categories using Node.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.3.2",
+    "dotenv": "^16.0.0"
+  }
+}
